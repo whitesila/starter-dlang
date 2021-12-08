@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/starter
+starter.so
+starter.dylib
+starter.dll
+starter.a
+starter.lib
+starter-test-*
+*.exe
+*.o
+*.obj
+*.lst

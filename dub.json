@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"nepat"
+	],
+	"copyright": "Copyright © 2021, nepat",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "starter"
+}
